@@ -280,7 +280,6 @@ blockquote {
 @media (max-width: 991px) {
   #testimonials {
     background-image: url(../img/CM.jpeg);
-    opacity: 0.2;
 
   }
 }
@@ -358,7 +357,6 @@ blockquote {
 
 .tm-testimonials-carousel .slick-dots li button:before {
   color: white;
-  opacity: 0.5;
 }
 
 .tm-testimonials-carousel .slick-dots li button:hover:before,
