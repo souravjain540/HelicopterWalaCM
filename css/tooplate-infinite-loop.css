@@ -199,11 +199,12 @@ blockquote {
 
 .tm-hero-title {
   font-size: 3.5rem;
-  text-shadow: 2px 2px 2px #333;
+  text-shadow: 5px 5px 5px #333;
 }
 
 .tm-hero-subtitle {
-  text-shadow: 2px 2px 2px #333;
+  text-shadow: 5px 5px 5px #333;
+  font-weight: bold;
 }
 
 .tm-intro-next {
@@ -515,9 +516,9 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   font-weight: bold;
-
+  opacity: 0.75;
   color: black;
-  background-color: #fff;
+  background-color: black;
   background-image: url(../img/NEW1.jpeg);
   background-position: center;
   background-repeat: repeat;
