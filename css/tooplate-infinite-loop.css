@@ -520,7 +520,7 @@ figure.effect-honey:hover h2 i {
   background-color: #001828;
   background-image: url(../img/CM.jpeg);
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   min-height: 980px;
   position: relative;
   padding-bottom: 50px;
