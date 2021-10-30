@@ -271,7 +271,7 @@ blockquote {
 /* Testimonials */
 #testimonials {
   font-size: 1.6rem;
-  color: white;
+  color: black;
   background-image: url(../img/CM.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -361,13 +361,13 @@ blockquote {
 }
 
 .tm-testimonials-carousel .slick-dots li button:before {
-  color: white;
+  color: black;
 }
 
 .tm-testimonials-carousel .slick-dots li button:hover:before,
 .tm-testimonials-carousel .slick-dots li button:focus:before,
 .tm-testimonials-carousel .slick-dots li.slick-active button:before {
-  color: white;
+  color: black;
   opacity: 1;
 }
 
