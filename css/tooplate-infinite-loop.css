@@ -274,8 +274,10 @@ blockquote {
   background-image: url(../img/CM.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
+  font-weight: bold;
   background-size: 100%;
   position: relative;
+  opacity: 0.75;
 }
 
 @media (max-width: 991px) {
