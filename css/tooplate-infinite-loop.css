@@ -270,6 +270,7 @@ blockquote {
 
 /* Testimonials */
 #testimonials {
+  font-size: 1.6rem;
   color: white;
   background-image: url(../img/CM.jpeg);
   background-size: cover;
@@ -277,6 +278,7 @@ blockquote {
   font-weight: bold;
   background-size: 100%;
   position: relative;
+  text-shadow: 5px 5px 5px #333;
   opacity: 0.75;
 }
 
