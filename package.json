@@ -1,0 +1,24 @@
+{
+  "name": "hcm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souravjain540/HelicopterWalaCM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souravjain540/HelicopterWalaCM/issues"
+  },
+  "homepage": "https://github.com/souravjain540/HelicopterWalaCM#readme",
+  "dependencies": {
+    "firebase": "^9.2.0"
+    
+  }
+}
